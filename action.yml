@@ -1,5 +1,5 @@
 # action.yml
-name: 'Get Commit Summary'
+name: 'Get Commit Summary Multiline'
 description: 'Get commits from previrous tag to new tag'
 author: 'Rasukarusan'
 inputs:
